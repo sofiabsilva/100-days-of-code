@@ -8,6 +8,6 @@
 **Thoughts:** Got through some exercises that really helped me understand things I hadn't understood before. 
 - How objects and primitives compare and how they're stored in variables.
 
-Example: Here myHouse.color would not change to red!
+Example: Here the object's house color would not change to red! Using these diagrams help to see the difference between primitive and reference values!
 
 ![](https://s18.postimg.cc/swolz2qs9/think-like-a-computer.png)
