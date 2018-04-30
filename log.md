@@ -8,4 +8,6 @@
 **Thoughts:** Got through some exercises that really helped me understand things I hadn't understood before. 
 - How objects and primitives compare and how they're stored in variables.
 
+example: myHouse.color would not change to red!
+
 ![](https://s18.postimg.cc/swolz2qs9/think-like-a-computer.png)
