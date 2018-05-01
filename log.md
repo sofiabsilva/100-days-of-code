@@ -11,3 +11,11 @@
 Example: Here, the object's house color would not change to red! Using these diagrams helped to see the difference between primitive and reference values!
 
 ![](https://s18.postimg.cc/swolz2qs9/think-like-a-computer.png)
+
+
+### Day 2: May 1, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: Continuing with the Practical JavaScript course. Learned a very useful tool that will surely help me with all of my projects. THE DEBUGGER! 
+
+**Thoughts:** It's incredible how most javaScript courses don't teach how to actually apply it. Understanding how to interact with the HTML document is so important and so is understanding the chrome dev tools.  
