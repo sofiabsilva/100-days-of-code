@@ -19,3 +19,12 @@ Example: Here, the object's house color would not change to red! Using these dia
 **Today's Progress**: Continuing with the Practical JavaScript course. Learned a very useful tool that will surely help me with all of my projects. THE DEBUGGER! 
 
 **Thoughts:** It's incredible how most javaScript courses don't teach how to actually apply it. Understanding how to interact with the HTML document is so important and so is understanding the chrome dev tools.  
+
+
+### Day 3: May 2, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: I'm now at 72% on the Practical JavaScript course. Learned about refactoring, something I had never heard of before, all about making the code more readable and organized for humans! Also, not entirely related to coding but I got to watch a webinar titled "Acing Your Interview with Positive Psychology: Q&A with Nico Rose" by Dr. Nico Rose. A perks of being a Google Scholarship alumni!
+
+**Thoughts:** 
+About the webinar, I enjoyed it a lot. I've been very interested in Psychology recently (for about a year or so) and there are some tips that I'm going to try to calm myself and prepare for future job interviews. 
