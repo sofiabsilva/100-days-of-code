@@ -28,3 +28,15 @@ Example: Here, the object's house color would not change to red! Using these dia
 
 **Thoughts:** 
 About the webinar, I enjoyed it a lot. I've been very interested in Psychology recently (for about a year or so) and there are some tips that I'm going to try to calm myself and prepare for future job interviews. 
+
+### Day 4: May 3, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: Didn't continue with the Practical JavaScript course due to technical issues with plnkr.co, so instead I continued with the Basic JavaScript section on #FreeCodeCamp just to refresh my memory on a few concepts. 
+
+**Thoughts:** Not my most productive day.
+
+### Day 5: May 3, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: 
