@@ -39,4 +39,4 @@ About the webinar, I enjoyed it a lot. I've been very interested in Psychology r
 ### Day 5: May 3, 2018
 #### :mortar_board: Learning 
 
-**Today's Progress**: 
+**Today's Progress**: Continued the Practical JavaScript course and finished watching a Udacity webinar "Front-end Problem Solving and Debugging Skills with Cameron Pittman". Also read this noteworthy [article](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312) about Mistakes beginner programmers make and how to avoid them. 
