@@ -40,3 +40,11 @@ About the webinar, I enjoyed it a lot. I've been very interested in Psychology r
 #### :mortar_board: Learning 
 
 **Today's Progress**: Continued the Practical JavaScript course and finished watching a Udacity webinar "Front-end Problem Solving and Debugging Skills with Cameron Pittman". Also read this noteworthy [article](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312) about Mistakes beginner programmers make and how to avoid them. 
+
+### Days 6 & 7: May 4 & 5, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: Yesterday I didn't get to dedicate 1 hour to coding, so I guess I already failed to do the 100 days streek. BUT today I dedicated more time to coding than yesterday to make up for it. Got to 82% on the Practical Javascript course. Got a better grasp at using functions inside other functions.
+
+**Thoughts:** Even thought I failed the challenge on day 6, I still pushed myself to learn a bit on SoloLearn (doing the CSS course there), if I wasn't doing this challenge I probably wouldn't have thought about coding that day. 
+
