@@ -36,15 +36,31 @@ About the webinar, I enjoyed it a lot. I've been very interested in Psychology r
 
 **Thoughts:** Not my most productive day.
 
-### Day 5: May 3, 2018
+### Day 5: May 4, 2018
 #### :mortar_board: Learning 
 
 **Today's Progress**: Continued the Practical JavaScript course and finished watching a Udacity webinar "Front-end Problem Solving and Debugging Skills with Cameron Pittman". Also read this noteworthy [article](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312) about Mistakes beginner programmers make and how to avoid them. 
 
-### Days 6 & 7: May 4 & 5, 2018
+### Days 6 & 7: May 5 & 6, 2018
 #### :mortar_board: Learning 
 
 **Today's Progress**: Yesterday I didn't get to dedicate 1 hour to coding, so I guess I already failed to do the 100 days streek. BUT today I dedicated more time to coding than yesterday to make up for it. Got to 82% on the Practical Javascript course. Got a better grasp at using functions inside other functions.
 
 **Thoughts:** Even thought I failed the challenge on day 6, I still pushed myself to learn a bit on SoloLearn (doing the CSS course there), if I wasn't doing this challenge I probably wouldn't have thought about coding that day. 
 
+### Day 8: May 7, 2018 
+#### :mortar_board: Learning 
+
+**Today's Progress**: I'm now 90% into the Practical Javascript course. Understood how we distinguish between Higher Order Functions from the Callback Functions, when we have functions inside other functions.
+![](https://s9.postimg.cc/3td31e5lb/Captura_de_ecr_de_2018-05-07_13-31-44.png)
+
+And I now truly understand how event listeners work and how the object and it's properties that can be acessed when passing a paramenter (event) to the  callback function, for example: 
+```
+// In Chrome dev tools, when an element is selected on a page you can access it by using $0;
+var selectedElement = $0;
+  selectedElement.addEventListener ('click', function(event) {
+  console.log(event);  
+  });
+// When that selected element is clicked, the mouseEvents object, which has many useful properties, is logged to the console.
+``` 
+**Thoughts:** Today I felt like I learned many new things that are small but important to fully understand JavaScript. Also, the todo list is now a bit more functional. 
