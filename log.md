@@ -54,7 +54,7 @@ About the webinar, I enjoyed it a lot. I've been very interested in Psychology r
 **Today's Progress**: I'm now 90% into the Practical Javascript course. Understood how we distinguish between Higher Order Functions from the Callback Functions, when we have functions inside other functions.
 ![](https://s9.postimg.cc/3td31e5lb/Captura_de_ecr_de_2018-05-07_13-31-44.png)
 
-And I now truly understand how event listeners work and how the object and it's properties can be acessed when passing a parameter (ex. event) to the  callback function, for example: 
+I now truly understand how event listeners work and how the object and it's properties can be acessed when passing a parameter (ex. event) to the  callback function, for example: 
 ```
 // In Chrome dev tools, when an element is selected on a page you can access it by using $0;
 var selectedElement = $0;
@@ -63,4 +63,6 @@ var selectedElement = $0;
   });
 // When that selected element is clicked, the mouseEvents object, which has many useful properties, is logged to the console.
 ``` 
+I also learned about event delegation and why it is preferable to do that opposed to adding multiple of the same event listeners to every child.
+
 **Thoughts:** Today I felt like I learned many new things that are small but important to fully understand JavaScript. Also, the todo list is now a bit more functional. 
