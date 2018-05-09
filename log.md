@@ -66,3 +66,11 @@ var selectedElement = $0;
 I also learned about event delegation and why it is preferable to do that opposed to adding multiple of the same event listeners to every child.
 
 **Thoughts:** Today I felt like I learned many new things that are small but important to fully understand JavaScript. Also, the todo list is now a bit more functional. 
+
+### Day 9: May 8, 2018 
+#### :mortar_board: Learning 
+
+**Today's Progress**: Finished the Practical JavaScript Course. Continued with freecodecamp lessons and started a new small project a 'Mad Libs - Harry Potter edition', just for fun. By started I mean: Having the idea, creating the files and starting to write a bit of the HTML and CSS. 
+
+**Thoughts:** The PJS course was pretty good for consolidating my previous knowledge of JS and also for understanding how some methods work and most importantly using the Chrome dev tools & debugger both for understanding what is happening and for fixing issues with the code. The last part of the course still needs reviewing though.
+
