@@ -80,3 +80,10 @@ I also learned about event delegation and why it is preferable to do that oppose
 **Today's Progress**: Worked on the design, content and figuring out how to go about the functionality of the Mad Libs Harry Potter project. 
 
 **Thoughts:** Tomorrow I'll hopefully get some of the JS code done and working! Fingers crossed.
+
+### Day 11: May 10, 2018
+#### :mortar_board: Building 
+
+**Today's Progress**: Made input text live change the text on the page. Learned the difference between using getElementsByClassName("className") and querySelector(".className") - so the difference is, when you use getElementsByClassName("className") it creates a nodeList (a special array of Nodes) of all elements in the page with that class name, so you'd have to use [0] after the () to correctly use that element. Thanks Google and SlackOverflow! 
+
+**Thoughts:** I got so frustrated because I spent over an hour trying to make a single input change an elemnet on the page, when I hadn't loaded the js file correctly! TYPOS :( 
