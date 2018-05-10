@@ -74,3 +74,9 @@ I also learned about event delegation and why it is preferable to do that oppose
 
 **Thoughts:** The PJS course was pretty good for consolidating my previous knowledge of JS and also for understanding how some methods work and most importantly using the Chrome dev tools & debugger both for understanding what is happening and for fixing issues with the code. The last part of the course still needs reviewing though.
 
+### Day 10: May 9, 2018
+#### :mortar_board: Building 
+
+**Today's Progress**: Worked on the design, content and figuring out how to go about the functionality of the Mad Libs Harry Potter project. 
+
+**Thoughts:** Tomorrow I'll hopefully get some of the JS code done and working! Fingers crossed.
