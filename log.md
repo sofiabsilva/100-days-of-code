@@ -100,4 +100,4 @@ On top of that I'm feeling the flu coming my way!
 
 **Today's Progress**: I don't know how finished it is but I feel like it's at a good enough state that I can finish my Mad Libs project with the world! 
 
-[![harry-potter-mad-libs.png](https://s9.postimg.cc/68x13aq67/harry-potter-mad-libs.png)](https://postimg.cc/image/p18w6vmkb/)
+[![harry-potter-mad-libs.png](https://s9.postimg.cc/68x13aq67/harry-potter-mad-libs.png)](https://sofiabsilva.github.io/mad-libs-harry-potter/)
