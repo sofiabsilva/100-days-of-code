@@ -88,3 +88,10 @@ I also learned about event delegation and why it is preferable to do that oppose
 
 **Thoughts:** I got so frustrated because I spent over an hour trying to make a single input change an elemnet on the page, when I hadn't loaded the js file correctly! TYPOS :( 
 On top of that I'm feeling the flu coming my way!
+
+### Day 12: May 11, 2018
+#### :mortar_board: Building 
+
+**Today's Progress**: Practically finished the "Harry Potter Mad Libs" project!
+
+**Thoughts:** Even though I was feverish I got to work on the project all day and it felt awesome to actually make progress for once! Might not be the ideal and most readable code ever but I tried to come up with everything on my own. 
