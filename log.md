@@ -101,3 +101,6 @@ On top of that I'm feeling the flu coming my way!
 **Today's Progress**: I don't know how finished it is but I feel like it's at a good enough state that I can finish my Mad Libs project with the world! 
 
 [![harry-potter-mad-libs.png](https://s9.postimg.cc/68x13aq67/harry-potter-mad-libs.png)](https://sofiabsilva.github.io/mad-libs-harry-potter/)
+- Continued with Free Code Camp JS lessons
+
+**Thoughts:** Since yesterday I spent the whole day in front of the computer I made sure not to do that today, but I managed to stay productive with the little time I had planned for coding which is awesome. [Promodoro - Tomato Timer](https://tomato-timer.com/) for the win! 
