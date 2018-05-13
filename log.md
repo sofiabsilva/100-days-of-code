@@ -104,3 +104,10 @@ On top of that I'm feeling the flu coming my way!
 [![harry-potter-mad-libs.png](https://s9.postimg.cc/68x13aq67/harry-potter-mad-libs.png)](https://sofiabsilva.github.io/mad-libs-harry-potter/)
 
 **Thoughts:** Since yesterday I spent the whole day in front of the computer I made sure not to do that today, but I managed to stay productive with the little time I had planned for coding which is awesome. [Promodoro - Tomato Timer](https://tomato-timer.com/) for the win! 
+
+### Day 14: May 13, 2018
+#### :mortar_board: Reviewing & Learning
+
+**Today's Progress**: Almost done reviewing the freeCodeCamp JS basics. 
+
+**Thoughts:** I much prefer building things and the style of the Udacity lessons, but my goal with freeCodeCamp is to get a refresher on the basics and move on to the advanced Udacity courses, then doing their Algorithms & Projects to get the Front End Dev certification. I wonder if I should be doing this? I just felt so insecure about my JS abilities that I wanted to take on the beginner courses and learn more from different resources before getting to more advanced stuff. But I'm finding that I know a lot more than I thought I did. 
