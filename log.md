@@ -111,3 +111,10 @@ On top of that I'm feeling the flu coming my way!
 **Today's Progress**: Almost done reviewing the freeCodeCamp JS basics. 
 
 **Thoughts:** I much prefer the format of the Udacity lessons or building things myself, but my goal with freeCodeCamp is to get a refresher on the basics and move on to the advanced Udacity courses, then doing their Algorithms & Projects to get the Front End Dev certification. I wonder if I should be doing this? I just felt so insecure about my JS abilities that I wanted to take on the beginner courses and learn more from different resources before getting myself into more advanced stuff. But I'm finding that I know a lot more than I thought I did, which is a good thing obviously!
+
+### Day 15: May 14, 2018
+#### :mortar_board: Reviewing & Learning
+
+**Today's Progress**: Continued with the FCC JS lessons. Now I know what JSON refers to! Had been hearing about it for a long time but never really looked it up (well, at this stage I still won't need to use it but it's nice to know what it is). 
+
+**Thoughts:** It's getting tricky to do the challenges, this last one really got me... It was the "Profile Lookup" one, the whole accessing objects with arrays on them and using nested loops and if else statements is really challenging.  
