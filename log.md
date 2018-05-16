@@ -118,3 +118,15 @@ On top of that I'm feeling the flu coming my way!
 **Today's Progress**: Continued with the FCC JS lessons. Now I know what JSON refers to! Had been hearing about it for a long time but never really looked it up (well, at this stage I still won't need to use it but it's nice to know what it is). 
 
 **Thoughts:** It's getting tricky to do the challenges, this last one really got me... It was the "Profile Lookup" one, the whole accessing objects with arrays on them and using nested loops and if else statements is really challenging.  
+
+### Day 16: May 15, 2018
+#### :mortar_board: Learning & Reviewing
+
+**Today's Progress**: Finished the Basic Javascript Lessons on FCC. Started "Javascript and the DOM" on Udacity. Also learned how to [make folders](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser) in GitHub from the web browser interface, now I'm saving specific lessons/challenges from FCC for later reference.
+
+**Thoughts:**  It was a good decision to take a look at the Udacity course, now I understand where specific methods and properties came from [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API).
+
+### Day 17: May 16, 2018
+#### :mortar_board: Planing & Learning
+
+**Today's Progress**: I'm planing/designing my website for Tubbie Arts (for displaying my artwork) - basically it's going to be a custom wordpress theme. So It's gonna be a portfolio website that's a bit more elaborate than the one I've created before (this one will have different pages, and offer the ability to purchase my work). I'm learning more about Wordpress as well. Not so much actual coding today but as I learned previously planning should be part of the workflow of a programmer.
