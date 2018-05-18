@@ -130,3 +130,10 @@ On top of that I'm feeling the flu coming my way!
 #### :mortar_board: Planing & Learning
 
 **Today's Progress**: I'm planing/designing my website for Tubbie Arts (for displaying my artwork) - basically it's going to be a custom wordpress theme. So It's gonna be a portfolio website that's a bit more elaborate than the one I've created before (this one will have different pages, and offer the ability to purchase my work). I'm learning more about Wordpress as well. Not so much actual coding today but as I learned previously planning should be part of the workflow of a programmer.
+
+### Day 18: May 17, 2018
+#### :mortar_board: Building & Learning
+
+**Today's Progress**: Didn't manage to do much. Only started writing the html and organizing sections for the Tubbie Arts website and looked for inspiration and cool ways to make a slideshow for the gallery. 
+
+**Thoughts:** I think there is going to be a key thing missing from the aesthetic of the first version of the website at least, which is the lack of good quality photos of my drawings. Need to take new ones but I don't have a good camera! :sweat: 
