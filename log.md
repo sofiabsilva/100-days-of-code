@@ -144,3 +144,12 @@ On top of that I'm feeling the flu coming my way!
 **Today's Progress**: Continued working on my gallery website, still no gallery to be seen but the design, menu, css and social media links are looking good-ish. 
 
 **Thoughts:** Absolutely loving the pattern I'm using for the background. Found it on https://www.toptal.com/designers/subtlepatterns/
+
+### Day 20: May 19, 2018
+#### :mortar_board: Building Tubbie Arts website 
+
+**Today's Progress**: Kept working on the mobile version of the site (mobile first!) got the mobile menu working, wrote and designed the about page, got the portuguese version of the home and about page done.
+
+**Thoughts:** I've been playing with the border-style properties, don't know if it will stay this way but I think it's interesting that you can use two types of styles in a single image. 
+
+[!about section](https://s9.postimg.cc/5llt5yazz/about-wip.png)
