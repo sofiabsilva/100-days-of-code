@@ -150,6 +150,6 @@ On top of that I'm feeling the flu coming my way!
 
 **Today's Progress**: Kept working on the mobile version of the site (mobile first!) got the mobile menu working, wrote and designed the about page, got the portuguese version of the home and about page done.
 
-**Thoughts:** I've been playing with the border-style properties, don't know if it will stay this way but I think it's interesting that you can use two types of styles in a single image. 
+**Thoughts:** I've been playing with the border-style properties, don't know if it will stay this way but I think it's interesting that you can use two types of styles in a single image (well actually we can use 4). 
 
 ![wip about tubbie arts page](https://s9.postimg.cc/5llt5yazz/about-wip.png)
