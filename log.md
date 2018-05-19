@@ -152,5 +152,4 @@ On top of that I'm feeling the flu coming my way!
 
 **Thoughts:** I've been playing with the border-style properties, don't know if it will stay this way but I think it's interesting that you can use two types of styles in a single image. 
 
-[![wip about tubbie arts page](https://s9.postimg.cc/5llt5yazz/about-wip.png)]
-
+![wip about tubbie arts page](https://s9.postimg.cc/5llt5yazz/about-wip.png)
