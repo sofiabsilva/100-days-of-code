@@ -153,3 +153,11 @@ On top of that I'm feeling the flu coming my way!
 **Thoughts:** I've been playing with the border-style properties, don't know if it will stay this way but I think it's interesting that you can use two types of styles in a single image (well actually we can use 4). 
 
 ![wip about tubbie arts page](https://s9.postimg.cc/5llt5yazz/about-wip.png)
+
+### Day 21: May 20, 2018
+#### :mortar_board: Building Tubbie Arts website 
+
+**Today's Progress**: Just improved a few things on the design of the pages, made the thumbnails for the featured drawings and made the desktop nav bar appear (I started with the mobile version only). 
+
+**Thoughts:** Unfortunately I didn't get the gallery working yet, I'm still weighting options for what to do with the gallery, link to another page when clicking on the thumbnails (where you can see bigger photo(s) of the drawing, information about it and prices for different sizes of prints to purchase? A paypal link for it? Or a simple lightbox type of gallery with the bigger pictures of the drawings with title, simple description and a link to buy it right there?  Now that I've written this out I think it'll be better to have individual pages for each drawing! This whole journaling thing is a great way to have a conversation with myself and clearly see the pros and cons of my ideas. 
+
