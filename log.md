@@ -161,3 +161,9 @@ On top of that I'm feeling the flu coming my way!
 
 **Thoughts:** Unfortunately I didn't get the gallery working yet, I'm still weighting options for what to do with the gallery, link to another page when clicking on the thumbnails (where you can see bigger photo(s) of the drawing, information about it and prices for different sizes of prints to purchase? A paypal link for it? Or a simple lightbox type of gallery with the bigger pictures of the drawings with title, simple description and a link to buy it right there?  Now that I've written this out I think it'll be better to have individual pages for each drawing! This whole journaling thing is a great way to have a conversation with myself and clearly see the pros and cons of my ideas. 
 
+### Day 22: May 21, 2018
+#### :mortar_board: Building Tubbie Arts website 
+
+**Today's Progress**: Using [animate.css](https://daneden.github.io/animate.css/) implemented some smooth transitions between pages, made gallery overlay effect using [this example](https://www.w3schools.com/howto/howto_css_image_overlay.asp) as a guide.
+
+**Thoughts:**  I feel so limited when it comes to JavaScript, I wonder how long till I feel confident enough to make my ideas come to life just like I imagined them. Well, it's not only JS, with CSS there are many things I still haven't understood... One of them is the absolute and relative positioning, and the other is the ::before and ::after things.
