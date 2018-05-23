@@ -167,3 +167,8 @@ On top of that I'm feeling the flu coming my way!
 **Today's Progress**: Using [animate.css](https://daneden.github.io/animate.css/) implemented some smooth transitions between pages, made gallery overlay effect using [this example](https://www.w3schools.com/howto/howto_css_image_overlay.asp) as a guide.
 
 **Thoughts:**  I feel so limited when it comes to JavaScript, I wonder how long till I feel confident enough to make my ideas come to life just like I imagined them. Well, it's not only JS, with CSS there are many things I still haven't understood... One of them is the absolute and relative positioning, and the other is the ::before and ::after things.
+
+### Day 23: May 22, 2018
+#### :mortar_board: Building Tubbie Arts website 
+
+**Today's Progress**: Made a cross icon appear when closing the menu on mobile, added a new page for pricing and started working on it's content. 
