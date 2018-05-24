@@ -173,7 +173,7 @@ On top of that I'm feeling the flu coming my way!
 
 **Today's Progress**: Made a cross icon appear when closing the menu on mobile, added a new page for pricing and started working on it's content. 
 
-### Day 24: May 22, 2018
+### Day 24: May 23, 2018
 #### :mortar_board: Building Tubbie Arts website 
 
 **Today's Progress**: Continued styling the new pricing page (mainly the pricing table) with CSS and made a new (and last) page, which holds the contact form.
@@ -181,4 +181,9 @@ On top of that I'm feeling the flu coming my way!
 **Thoughts:** Will need to learn how to make the contact form work later on! Hope it's not too complicated... :anguished:
 Also, I have Web Designer magazines at home and forgot all about them (they're my dad's)! Even though they're not very recent, most stuff is still up to date. So Yay for learning from a non screen medium. 
 
+### Day 25: May 24, 2018
+#### :mortar_board: Building Tubbie Arts website
 
+**Today's Progress**: Added icons and an active state to the nav bar, kept styling and updated some of the pages to match the others. Also updated my portfolio with the "Mad Libs" HP game.  
+
+**Thoughts:** Note to self, before making a new page with the same content but with a different language make sure to be done (if it can ever be) before moving on to the other language pages, it saves time.
