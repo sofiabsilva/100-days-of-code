@@ -187,3 +187,10 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 **Today's Progress**: Added icons and an active state to the nav bar, kept styling and updated some of the pages to match the others. Also updated my portfolio with the "Mad Libs" HP game.  
 
 **Thoughts:** Note to self, before making a new page with the same content but with a different language make sure to be done (if it can ever be) before moving on to the other language pages, it saves time.
+
+### Day 26: May 25, 2018
+#### :mortar_board: Learning and Building Tubbie Arts website
+
+**Today's Progress**: Got mockup images for the individual pages of each gallery item, started trying them out with photoshop, did a few FreeCodeCamp lessons and continued styling the pages of the site.
+
+**Thoughts:** Spent HOURS looking for frame mockups , found some cool psd ones for free at www.anthonyboyd.graphics ; https://www.freepik.com/ and https://graphicburger.com/ for this reason didn't get to code much.
