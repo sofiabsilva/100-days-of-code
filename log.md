@@ -194,3 +194,12 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 **Today's Progress**: Got mockup images for the individual pages of each gallery item, started trying them out with photoshop, did a few FreeCodeCamp lessons and continued styling the pages of the site.
 
 **Thoughts:** Spent HOURS looking for frame mockups , found some cool psd ones for free at www.anthonyboyd.graphics ; https://www.freepik.com/ and https://graphicburger.com/ for this reason didn't get to code much.
+
+### Day 27: May 26, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Today I did more design than coding again, had to edit some photos and mockups on photoshop still a lot to work on, my computer is super slow which is not helping.
+
+### Day 28: May 27, 2018
+#### :mortar_board: Building Tubbie Arts website
+Day 28: Basically same as yesterday! Still putting things together on photoshop and planing content for the website. Technically no real coding today... I'm aware that I'm failing the challenge but I'll keep going anyway, will add hard coding days after the 100th.
