@@ -202,4 +202,22 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 
 ### Day 28: May 27, 2018
 #### :mortar_board: Building Tubbie Arts website
-Day 28: Basically same as yesterday! Still putting things together on photoshop and planing content for the website. Technically no real coding today... I'm aware that I'm failing the challenge but I'll keep going anyway, will add hard coding days after the 100th.
+
+**Today's Progress**: Basically same as yesterday! Still putting things together on photoshop and planing content for the website. Technically no real coding today... I'm aware that I'm failing the challenge but I'll keep going anyway, will add hard coding days after the 100th.
+
+### Day 29: May 28, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**:  Continued working with photoshop. Started looking on how to publish my website without back-end knowledge. Watched tutorials on how to create wordpress themes and read a bunch of articles.
+
+**Thoughts:** I [asked for advice on what to do on twitter](https://twitter.com/TubbieHead/status/1001137875155550208), as I was thinking of converting my files into a wordpress theme and then use it's plugins and database. And got a bunch of interesting opinions:
+
+  - Use wordpress!  It's used so widely there are endless resources to learn from. Look up running wordpress locally using xampp or something and go from there.
+
+  - Wordpress can be clunky to build custom with as a noob.
+  
+  - Learn a back end technology, it will open many doors. There’s a lot to learn but you can do so much with it.
+  
+  - Try @GoHugoIO if you want to focus only on frontend and dont want to get into other stuff right now.
+  
+  - Try FireBase! Hosting is free and easy to set up. WordPress might be worth learning, but it can also be a great hassle.
