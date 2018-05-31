@@ -221,3 +221,17 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
   - Try @GoHugoIO if you want to focus only on frontend and dont want to get into other stuff right now.
   
   - Try FireBase! Hosting is free and easy to set up. WordPress might be worth learning, but it can also be a great hassle.
+
+### Day 30: May 29, 2018
+#### :mortar_board: Learning & Building Tubbie Arts website
+
+**Today's Progress**:  Spent most of the day looking into the different suggestions given yesterday and learning about basics of how to publish a website, what's hosting, servers etc. Also started looking into SEO techinques to apply when developing websites and pushed the website I've been working on to [this github repo](https://github.com/sofiabsilva/tubbie-arts-website), added some content to it as well.
+
+**Thoughts:** Realised I was over complicating things. I already have a domain name and can host the site through my dad's host. I don't need any static site generator or CMS for this website since I'm the only one who'll be working on it.
+
+### Day 31: May 30, 2018
+#### :mortar_board: Learning & Building Tubbie Arts website
+
+**Today's Progress**: I didn't make much progress today, just continuing to study SEO and work a bit on my website.
+
+**Thoughts:** A month has passed and I feel like I've learnt a lot and acomplished a bunch of my goals since the start of the challenge. 
