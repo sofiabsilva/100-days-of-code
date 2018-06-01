@@ -235,3 +235,10 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 **Today's Progress**: I didn't make much progress today, just continuing to study SEO and work a bit on my website.
 
 **Thoughts:** A month has passed and I feel like I've learnt a lot and acomplished a bunch of my goals since the start of the challenge. 
+
+### Day 32: May 31, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Kept working on my website today, not much to report on... Just Added a new page and made the existing ones and new one more responsive.
+
+**Thoughts:** I got a commission for a pet portrait, so I'm excited about that but also worried that it's going to leave me with little time to code. I'll always try to squeeze in an hour at least, but I bet there won't be much to report on.
