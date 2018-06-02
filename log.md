@@ -242,3 +242,15 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 **Today's Progress**: Kept working on my website today, not much to report on... Just Added a new page and made the existing ones and new one more responsive.
 
 **Thoughts:** I got a commission for a pet portrait, so I'm excited about that but also worried that it's going to leave me with little time to code. I'll always try to squeeze in an hour at least, but I bet there won't be much to report on.
+
+### Day 33: May 1, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Kept adding pages & images to website. Finally all pages exist!
+
+### Day 34: May 2, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Continued working on the individual drawing pages, now started adding fitting descriptions.
+
+**Thoughts:** Still need to see if the pricing is all correct, and look up what's the best paper and way to sell prints. Found out that I can add a shopping cart feature that goes directly to paypal, also seems like you can add shipping costs etc. But have to look more into that.
