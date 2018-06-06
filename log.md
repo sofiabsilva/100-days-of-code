@@ -259,3 +259,22 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 #### :mortar_board: Building Tubbie Arts website
 
 **Today's Progress**: Added ads for print studio where I'll get my prints done to every page, kept learning about the paypal business account.
+
+### Day 36: June 4, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Add the paypal shopping cart integration to one of the pages (even though I don't have a business account yet, this is just a test at the moment). 
+
+**Thoughts:** When is this going to end? I'm probably never gonna be 100% happy with the site, so now I just gotta re-check everything, work a bit more on the content and make sure things actually work.
+
+### Day 37: June 5, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Took a break from working on the site, started the new lessons on freecodecamp, also watched a few webinars about career and e-commerce shops. Started my commissioned pet portrait.
+
+**Thoughts:** I would count this day as a miss in terms of coding, but you gotta do what you gotta do right?
+
+### Day 38: June 6, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Learned about CSS variables on freecodecamp.
