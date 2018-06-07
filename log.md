@@ -278,3 +278,8 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 #### :mortar_board: Learning
 
 **Today's Progress**: Learned about CSS variables on freecodecamp.
+
+### Day 39: June 6, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Continued the FCC lessons, it's mostly revision but I got a better understanding of relative and absolute positioning now.
