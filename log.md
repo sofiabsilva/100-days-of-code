@@ -279,7 +279,12 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 
 **Today's Progress**: Learned about CSS variables on freecodecamp.
 
-### Day 39: June 6, 2018
+### Day 39: June 7, 2018
 #### :mortar_board: Learning
 
 **Today's Progress**: Continued the FCC lessons, it's mostly revision but I got a better understanding of relative and absolute positioning now.
+
+### Day 40: June 8, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Created and translated portuguese page for the lynx drawing, added the portuguese version for the gallery and contact form too.
