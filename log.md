@@ -288,3 +288,23 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 #### :mortar_board: Building Tubbie Arts website
 
 **Today's Progress**: Created and translated portuguese page for the lynx drawing, added the portuguese version for the gallery and contact form too.
+
+### Day 41: June 9, 2018
+#### :mortar_board: Building Tubbie Arts website
+
+**Today's Progress**: Learned how to make the contact form work, will be using formspree for right now. But to upload photos I'll have to use an add on (all info is on formspree.io).
+
+### Day 42: June 10, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: #FreeCodeCamp day! Got to learn how to make shapes and draw with CSS. 
+
+### Day 43: June 12, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Unfortunately missed a day yesterday, but today I've learned how to make animations using keyframes! Pretty cool stuff! Finished the applied visual design section on #freecodecamp
+
+### Day 44: June 13, 2018
+#### :mortar_board: Learning and building Tubbie Arts website
+
+**Today's Progress**: Started the Applied Accessibility lessons on FCC and am appllying the learned principles to the website.
