@@ -304,7 +304,14 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 
 **Today's Progress**: Unfortunately missed a day yesterday, but today I've learned how to make animations using keyframes! Pretty cool stuff! Finished the applied visual design section on #freecodecamp
 
-### Day 44: June 13, 2018
+### Day 44 & 45: June 13 & 14, 2018
 #### :mortar_board: Learning and building Tubbie Arts website
 
 **Today's Progress**: Started the Applied Accessibility lessons on FCC and am appllying the learned principles to the website.
+
+**Thoughts:** I'm finding this section very informative and interesting, learning so much! Will start to pay more attention to the design from now on, specially color choices. Will also have to tweak some of my older projects in regards to that.
+
+### Day 46: June 15, 2018
+#### :mortar_board: Learning and building
+
+**Today's Progress**: Completed the Applied Accessibility lessons on FCC and started working on the survey project. Already passed all the tests with HTML, so the fun part is coming up next! I'll try not to spend too much time choosing the color scheme...
