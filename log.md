@@ -315,3 +315,8 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 #### :mortar_board: Learning and building
 
 **Today's Progress**: Completed the Applied Accessibility lessons on FCC and started working on the survey project. Already passed all the tests with HTML, so the fun part is coming up next! I'll try not to spend too much time choosing the color scheme...
+
+### Day 47: June 16, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Day 47: Survey project complete! [view on codepen](https://codepen.io/Tubbie/live/RJLpJL) or check [this](https://github.com/sofiabsilva/Survey-FCC) repo.
