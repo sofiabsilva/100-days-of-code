@@ -319,4 +319,9 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 ### Day 47: June 16, 2018
 #### :mortar_board: Building
 
-**Today's Progress**: Day 47: Survey project complete! [view on codepen](https://codepen.io/Tubbie/live/RJLpJL) or check [this](https://github.com/sofiabsilva/Survey-FCC) repo.
+**Today's Progress**: Survey project complete! [view on codepen](https://codepen.io/Tubbie/live/RJLpJL) or check [this](https://github.com/sofiabsilva/Survey-FCC) repo.
+
+### Day 48: June 17, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Started building the Product Landing Page, another one of the required projects on FCC. HTML done. CSS next :D
