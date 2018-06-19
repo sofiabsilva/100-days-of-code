@@ -325,3 +325,20 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 #### :mortar_board: Building
 
 **Today's Progress**: Started building the Product Landing Page, another one of the required projects on FCC. HTML done. CSS next :D
+
+### Day 49: June 18, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Kept working on the product landing page #freeCodeCamp project. I still struggle to get headers with a logo on the left and a nav-bar on the right to display correctly. 
+
+**Thoughts:** Twitter to the rescue! Sasha sent me this in response to my tweet, it's going to be good to compare the way it's made to what I have https://codepen.io/anon/pen/OEzXeN
+
+### Day 50: June 19, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Today I continued to work on the FCC Product Landing Page project. Planning to finish it tomorrow or maybe later today if I have time.
+ -Header ✔️
+- 1st section ✔️
+- color scheme & basic design ✔️
+
+**Thoughts:** I'm halfway through the challenge! IS THIS REAL? I'm happy I started this, but I gotta say having to write my progress on here and twitter is a bit time comsuming, yet it also motivates me to get stuff done each day. 
