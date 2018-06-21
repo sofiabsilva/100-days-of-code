@@ -342,3 +342,18 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 - color scheme & basic design ✔️
 
 **Thoughts:** I'm halfway through the challenge! IS THIS REAL? I'm happy I started this, but I gotta say having to write my progress on here and twitter is a bit time comsuming, yet it also motivates me to get stuff done each day. 
+
+### Day 51: June 20, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Done with the Product Landing Page - #FreeCodeCamp project, except I still need to add a mobile friendly navigation burger, this will be a task for tomorrow.
+
+![](https://postimg.cc/image/gez29l2dj/)
+
+### Day 52: June 21, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Couldn't do a lot today, but worked on the mobile version of the Product Landing Page, here it is on codepen:
+https://codepen.io/Tubbie/full/MXObze/
+
+**Thoughts:** I hadn't actually tested the page on a real mobile, now I just saw how it looks on my phone and it's not displaying the burger icon correctly! Ooops. Also, as I'm writing this on another computer, which has a larger monitor, I'm seeing that there are still some things left to change on the page. I'd like to add more animations. 
