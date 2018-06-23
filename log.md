@@ -357,3 +357,13 @@ Also, I have Web Designer magazines at home and forgot all about them (they're m
 https://codepen.io/Tubbie/full/MXObze/
 
 **Thoughts:** I hadn't actually tested the page on a real mobile, now I just saw how it looks on my phone and it's not displaying the burger icon correctly! Ooops. Also, as I'm writing this on another computer, which has a larger monitor, I'm seeing that there are still some things left to change on the page. I'd like to add more animations. 
+
+### Day 53: June 22, 2018
+#### :mortar_board: Learning/ Reviewing
+
+**Today's Progress**: Didn't get to the computer the whole day so I reserved an hour and a half in the morning to use my phone instead and continued with the CSS Fundamentals course through the SoloLearn app.
+
+### Day 54: June 23, 2018
+#### :mortar_board: Fixing Stuff and Learning
+
+**Today's Progress**: Fixed some design elements and the mobile non-responsiveness that I had done before on the FCC Product Landing Page project and continued with the sololearn app.
