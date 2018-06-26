@@ -369,3 +369,13 @@ https://codepen.io/Tubbie/full/MXObze/
 **Today's Progress**: Fixed some design elements, animations (actually discovered you can't animate a color gradient background in CSS, after spending a good ammount of time refreshing and trying to catch my non-existent mistake) and the mobile non-responsiveness that I had done before on the [FCC Product Landing Page project](https://codepen.io/Tubbie/full/MXObze/), also continued with the sololearn app.
 
 **Thoughts:** Had an idea yesterday as I was listeing to the Syntax podcast, and so that I don't forget I'll write it here: It would be cool to keep up with bugs that take me a lot of time to solve and have a git repo or something like a blog where I post those bugs (even the missing semicolons and dumb mistakes that happen) and my process of solving them and understanding why/how they happen. 
+
+### Day 55: June 24, 2018
+#### :mortar_board: Learning and Building
+
+**Today's Progress**: Got to make some progress on #SoloLearn and started working on the remaining #freecodecamp responsive web design project "Technical Documentation Page" I'm doing one for the CSS Animations.
+
+### Day 56: June 25, 2018
+#### :mortar_board: Learning and Building
+
+**Today's Progress**: Continued working on the FCC Technical Documentation Page project for a bit and then later got through some more CSS3 lessons on sololearn.
