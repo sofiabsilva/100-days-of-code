@@ -379,3 +379,11 @@ https://codepen.io/Tubbie/full/MXObze/
 #### :mortar_board: Learning and Building
 
 **Today's Progress**: Continued working on the FCC Technical Documentation Page project for a bit and then later got through some more CSS3 lessons on sololearn.
+
+### Day 57: June 26, 2018
+#### :mortar_board: Learning and Building
+
+**Today's Progress**: Continued builing the documentation page and completed the CSS Fundamentals course on SoloLearn!
+<br>
+<img src="https://pbs.twimg.com/media/Dgp3tOPXkAERZVz.jpg" width="600">
+
