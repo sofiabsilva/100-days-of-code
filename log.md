@@ -387,3 +387,21 @@ https://codepen.io/Tubbie/full/MXObze/
 <br>
 <img src="https://pbs.twimg.com/media/Dgp3tOPXkAERZVz.jpg" width="600">
 
+### Day 58: June 27, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Technical Doc Page project is done (I think). On codepen: https://codepen.io/Tubbie/full/gKKVmB on github: https://sofiabsilva.github.io/CSS-Animations-Documentation-FCC/
+
+**Thoughts:**  So happy to have discovered the scroll-behavior CSS property, I thought making this type of transition would require some CSS ninja skills but it was just a property! Thank you to FreeCodeCamp forum user mav1283, as I was inspired by his project in regards to the scrolling behavior, also helped me figure out how to do it myself. 
+
+### Day 59: June 28, 2018
+#### :mortar_board: Building
+
+**Today's Progress**: Continued improving the supposedly complete FCC technical doc page project. Added a way to pop the navigation up when needed on the mobile version. 
+
+**Thoughts:** After wondering what was wrong for a while I learned you can't use z-index with an element with static position! Thanks google & stackoverflow!
+
+### Day 60: June 29, 2018
+#### :mortar_board: Learning and Building
+
+**Today's Progress**: Claimed my #freecodecamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/sofiabsilva/responsive-web-design) today! Improved a bit my portfolio, but found out it wasn't required to change everything just to meet the new requirements, thankfully! 
