@@ -405,3 +405,10 @@ https://codepen.io/Tubbie/full/MXObze/
 #### :mortar_board: Learning and Building
 
 **Today's Progress**: Claimed my #freecodecamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/sofiabsilva/responsive-web-design) today! Improved a bit my portfolio, but found out it wasn't required to change everything just to meet the new requirements, thankfully! 
+
+### Day 61: June 30, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Started the ES6 lessons on FreeCodeCamp
+
+**Thoughts:** Now I finally understand WHY let and const exist, I had learned how to use them before because it was one of the requirements for the Pixel Art Maker Udacity project, but didn't know the actual reasons to use them instead of just var. Now I get it! Thanks FCC!
