@@ -412,3 +412,20 @@ https://codepen.io/Tubbie/full/MXObze/
 **Today's Progress**: Started the ES6 lessons on FreeCodeCamp
 
 **Thoughts:** Now I finally understand WHY let and const exist, I had learned how to use them before because it was one of the requirements for the Pixel Art Maker Udacity project, but didn't know the actual reasons to use them instead of just var. Now I get it! Thanks FCC!
+
+### Day 62: July 1, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Continued learning ES6 but got stuck on a #freecodecamp challenge: Write Higher Order Arrow Functions, will see if I can figure it out tomorrow.
+
+### Day 63: July 2, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Worked out the solution to a few of the challenges but I'm dislinking the ES6 section on #freecodecamp so far, so I'm gonna do the Udacity ES6 course instead (that I had already started). #GoingBacktoMyRoots Then I wanna start the #JavaScript30 course/challenge by Wes Bos.
+
+### Day 64: July 3, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress**: Since Udacity's ES6 course isn't available right now for some reason. I started with Day 1 of the JavaScript30, making a keyboard drum kit!  
+
+**Thoughts:** Whenever I spend some time without coding with JS I forget how to do basic syntax things, the struggle is real, but I can always look up my past projects to remind myself. This course uses ES6 but so far it's all things I already learned.
