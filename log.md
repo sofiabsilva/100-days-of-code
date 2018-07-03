@@ -427,5 +427,6 @@ https://codepen.io/Tubbie/full/MXObze/
 #### :mortar_board: Learning & Building
 
 **Today's Progress**: Since Udacity's ES6 course isn't available right now for some reason. I started with Day 1 of the JavaScript30, making a keyboard drum kit!  
+  - Learned about custom data selectors, the [classList](https://www.w3schools.com/jsref/prop_element_classlist.asp) property, transitionend and keycode (keycode.info) events.
 
 **Thoughts:** Whenever I spend some time without coding with JS I forget how to do basic syntax things, the struggle is real, but I can always look up my past projects to remind myself. This course uses ES6 but so far it's all things I already learned.
