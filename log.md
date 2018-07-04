@@ -405,6 +405,7 @@ https://codepen.io/Tubbie/full/MXObze/
 #### :mortar_board: Learning and Building
 
 **Today's Progress**: Claimed my #freecodecamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/sofiabsilva/responsive-web-design) today! Improved a bit my portfolio, but found out it wasn't required to change everything just to meet the new requirements, thankfully! 
+[![responsive_web_design_certificate_freecodecamp.png](https://s15.postimg.cc/7o5yjdtwr/responsive_web_design_certificate_freecodecamp.png)](https://postimg.cc/image/jd9y7ckvb/)
 
 ### Day 61: June 30, 2018
 #### :mortar_board: Learning
@@ -430,3 +431,8 @@ https://codepen.io/Tubbie/full/MXObze/
   - Learned about custom data selectors, the [classList](https://www.w3schools.com/jsref/prop_element_classlist.asp) property, transitionend and keycode (keycode.info) events.
 
 **Thoughts:** Whenever I spend some time without coding with JS I forget how to do basic syntax things, the struggle is real, but I can always look up my past projects to remind myself. This course uses ES6 but so far it's applying things I already learned.
+
+### Day 65: July 4, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: No time to be on the computer coding today so I got my phone's SoloLearn app running whenever I could. Learning ES6 through there. 
