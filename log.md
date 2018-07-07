@@ -436,3 +436,13 @@ https://codepen.io/Tubbie/full/MXObze/
 #### :mortar_board: Learning 
 
 **Today's Progress**: No time to be on the computer coding today so I got my phone's SoloLearn app running whenever I could. Learning ES6 through there. 
+
+### Day 66: July 5, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: Didn't get much time to code again today... Learned some more ES6 features and started Day 2 of #JavaScript30 ... It'll be more like a Day 2.5 for me 'cause I really don't feel like I can complete it today without rushing it. Got started with changing some of the CSS though.
+
+### Day 67: July 6, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress & Thoughts**: Today I was planning to continue the #JavaScript30 but right in the morning, a Net Ninja video popped up on youtube and I discovered this tutorial of his ["CSS Only Dropdown Menu"](https://www.youtube.com/watch?v=POxn1x3kAyY&t=338s) which was pretty cool so I decided to try it in my [Techical Documentation Page](https://codepen.io/Tubbie/full/gKKVmB) project, and also apply some of the suggestions I got from the #freecodecamp forum. So that was my day!
