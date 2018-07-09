@@ -455,6 +455,22 @@ https://codepen.io/Tubbie/full/MXObze/
 **Thoughts:** This was fun and challenging, applied things I had learned but forgotten how to do like setInterval, learned you can set an inline element using element.style and how to surpass a glitch that happened once the second hand completed a full minute. I still want to change the styling a bit and figure out how to make the clock hands different sizes but still be rotating from the same spot. 
 
 ### Day 69: July 8, 2018
+#### :mortar_board: Building & Learning
+
+**Today's Progress:** Continued working on the Day 2 clock. Learned that setting the element.style.property = '' resets the styling. Watched The Net Ninja videos about ES6 (short but sweet, highly recommend them), planing to watch the rest tomorrow.
+
+**Thoughts:** For the clock, I think it would be cool to have the background image changing depending on the current hour (night/day). Already picked the pictures now to implement it...
+
+### Day 70: July 9, 2018
 #### :mortar_board: Building
 
-**Today's Progress:** Learned that setting the element.style.property = '' resets the styling, 
+**Today's Progress:** Implemented the changing backgrounds! It was easy!  https://codepen.io/Tubbie/full/ZRgXXK7
+
+By day:
+
+[![clock_day](https://s15.postimg.cc/yzivp49uj/clock_day.png)](https://postimg.cc/image/7oxkh76xj/)
+
+By Night:
+
+[![Clock_night](https://s15.postimg.cc/3tu6eqqdn/Captura_de_ecr_de_2018-07-09_18-58-55.png)](https://postimg.cc/image/3tu6eqqdj/)
+
