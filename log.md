@@ -462,9 +462,9 @@ https://codepen.io/Tubbie/full/MXObze/
 **Thoughts:** For the clock, I think it would be cool to have the background image changing depending on the current hour (night/day). Already picked the pictures now to implement it...
 
 ### Day 70: July 9, 2018
-#### :mortar_board: Building
+#### :mortar_board: Learning & Building
 
-**Today's Progress:** Implemented the changing backgrounds! It was easy!  https://codepen.io/Tubbie/full/ZRgXXK7
+**Today's Progress:** Continued learning ES4 and implemented the changing backgrounds! It was easy!  https://codepen.io/Tubbie/full/ZRgXXK7
 
 By day:
 
@@ -474,3 +474,12 @@ By Night:
 
 [![Clock_night](https://s15.postimg.cc/3tu6eqqdn/Captura_de_ecr_de_2018-07-09_18-58-55.png)](https://postimg.cc/image/3tu6eqqdj/)
 
+### Day 71: July 10, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Started Day 3 of#JavaScript30. Finished watching the Net Ninja's [ES6 youtube playlist](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml) 
+
+**Thoughts:** Only learnt now that Javascript runs from right to left hahah!
+Remarkable things from Day 3 of #JavaScript30:
+  - Cool application of the custom data selectors;
+  - Learned how to set CSS properties and their correspondent values via JS by using document.documentElement.style.setProperties().
