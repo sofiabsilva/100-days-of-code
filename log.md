@@ -440,7 +440,7 @@ https://codepen.io/Tubbie/full/MXObze/
 ### Day 66: July 5, 2018
 #### :mortar_board: Learning
 
-**Today's Progress**: Didn't get much time to code again today... Learned some more ES6 features and started Day 2 of #JavaScript30 ... It'll be more like a Day 2.5 for me 'cause I really don't feel like I can complete it today without rushing it. Got started with changing some of the CSS though, like setting the clock hands in the middle (pointing at 12) using a different method than appliying the transform: rotate(90deg) that wes bos used.
+**Today's Progress**: Didn't get much time to code again today... Learned some more ES6 features and started Day 2 of #JavaScript30 ... It'll be more like a Day 2.5 for me 'cause I really don't feel like I can complete it today without rushing it. Got started with changing some of the CSS though, like setting the clock hands in the middle (pointing at 12) using a different method than appliying the <code>transform: rotate(90deg)</code> that wes bos used.
 
 ### Day 67: July 6, 2018
 #### :mortar_board: Learning and Building
@@ -452,7 +452,7 @@ https://codepen.io/Tubbie/full/MXObze/
 
 **Today's Progress:** Completed Day 2 of the #JavaScriot30 challenge. https://codepen.io/Tubbie/full/ZRgXXK
 
-**Thoughts:** This was fun and challenging, applied things I had learned but forgotten how to do like setInterval, learned you can set an inline element using element.style and how to surpass a glitch that happened once the second hand completed a full minute. I still want to change the styling a bit and figure out how to make the clock hands different sizes but still be rotating from the same spot. 
+**Thoughts:** This was fun and challenging, applied things I had learned but forgotten how to do like setInterval, learned you can set an inline element using <code>element.style</code> and how to surpass a glitch that happened once the second hand completed a full minute. I still want to change the styling a bit and figure out how to make the clock hands different sizes but still be rotating from the same spot. 
 
 ### Day 69: July 8, 2018
 #### :mortar_board: Building & Learning
@@ -482,7 +482,7 @@ By Night:
 **Thoughts:** Only learnt now that Javascript runs from right to left hahah!
 Remarkable things from Day 3 of #JavaScript30:
   - Cool application of the custom data selectors;
-  - Learned how to set CSS properties and their correspondent values via JS by using document.documentElement.style.setProperties().
+  - Learned how to set CSS properties and their correspondent values via JS by using <code>document.documentElement.style.setProperties().</code>
   
 ### Day 72: July 11, 2018
 #### :mortar_board: Learning & Building
