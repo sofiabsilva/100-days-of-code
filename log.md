@@ -487,4 +487,4 @@ Remarkable things from Day 3 of #JavaScript30:
 ### Day 72: July 11, 2018
 #### :mortar_board: Learning & Building
 
-**Today's Progress:** Finished Day 3 of #JavaScript30, learned how to customize the range inputs (or any inputs I guess using <code>-webkit-appearance: none</code> to eliminate the default) started Day 4.  Here's my rendition: https://codepen.io/Tubbie/full/djPWVz
+**Today's Progress:** Finished Day 3 of #JavaScript30, learned how to customize the range inputs (or any inputs I guess using <code>-webkit-appearance: none</code> to eliminate the default) and started Day 4: 1st Array Cardio.  Here's my rendition: https://codepen.io/Tubbie/full/djPWVz
