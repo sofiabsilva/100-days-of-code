@@ -489,3 +489,13 @@ Remarkable things from Day 3 of #JavaScript30:
 
 **Today's Progress & Thoughts:** Finished Day 3 of #JavaScript30, learned how to customize the range inputs (or any inputs I guess, using <code>-webkit-appearance: none</code> to eliminate the default) Here's my rendition: https://codepen.io/Tubbie/full/djPWVz 
 AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge. Learned a cool way to display array values in the console using <code>console.table()</code> 
+
+### Day 73: July 12, 2018
+#### :mortar_board: Learning & Building
+**Today's Progress & Thoughts:** Done with the Array cardio for Day 4 of #JavaScript30! It was tough but awesome to learn! Now I feel more prepared for the #Freecodecamp ES6 challenges. Started working on the Day 5, Flexbox + JavaScript Image Gallery. This design is so cool!
+
+### Day 74: July 13, 2018
+#### :mortar_board: Learning
+
+**Today's Progress & Thoughts:** I didn't code much today, but I did a few challenges/duels on SoloLearn (and reviewed incorrect answers, which is a nice way to learn as well), I also watched a few videos from the Net Ninja on Object Oriented JavaScript, learned about classes in JS! And finally, enrolled on the Summer Of Code of #1millionwomentotech let's see how it goes!
+
