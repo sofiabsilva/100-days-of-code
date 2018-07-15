@@ -513,6 +513,6 @@ AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge
 ### Day 76: July 15, 2018
 #### :mortar_board: Learning & Building
 
-**Today's Progress:** Done with Day 5 of #JavaScript30 - Flexbox and JS image Gallery! Just added some over effects. https://codepen.io/Tubbie/full/WKrpPR. Started watching the Day 6 video - Ajax Type Ahead with fetch().
+**Today's Progress:** Done with Day 5 of #JavaScript30 - Flexbox and JS image Gallery! Just added some over effects. https://codepen.io/Tubbie/full/WKrpPR. Started Day 6 video - Ajax Type Ahead with fetch().
 
-**Thoughts:** This one was pretty cool. I managed to do a few things myself before watching the whole video and some of it was correct hahah
+**Thoughts:** This one was pretty cool. I managed to do a few things myself before watching the whole video and some of it was correct hahah From Day 5 to Day 6 it's like night and day on difficulty level for me. It's the hardest one yet as I have never worked with Ajax or Json... But it's cool, I will need to find other resourses to really learn this, as I'm just not getting it right now. 
