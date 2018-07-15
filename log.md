@@ -488,6 +488,10 @@ Remarkable things from Day 3 of #JavaScript30:
 #### :mortar_board: Learning & Building
 
 **Today's Progress & Thoughts:** Finished Day 3 of #JavaScript30, learned how to customize the range inputs (or any inputs I guess, using <code>-webkit-appearance: none</code> to eliminate the default) Here's my rendition: https://codepen.io/Tubbie/full/djPWVz 
+
+[![Day 3 #JavaScript30](https://s15.postimg.cc/w047k77rv/Captura_de_ecr_de_2018-07-15_13-29-58.png)](https://postimg.cc/image/d7scgmbdj/)
+
+
 AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge. Learned a cool way to display array values in the console using <code>console.table()</code> 
 
 ### Day 73: July 12, 2018
