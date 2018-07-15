@@ -499,3 +499,16 @@ AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge
 
 **Today's Progress & Thoughts:** I didn't code much today, but I did a few challenges/duels on SoloLearn (and reviewed incorrect answers, which is a nice way to learn as well), I also watched a few videos from the Net Ninja on Object Oriented JavaScript, learned about classes in JS! And finally, enrolled on the Summer Of Code of #1millionwomentotech let's see how it goes!
 
+### Day 75: July 14, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Just watched some Object Oriented JavaScript videos and revised a bit of flex-box. 
+
+**Thoughts:** Today was one of those days I had various things planed and ended up not doing much of it due to little unexpected things that came up & proacastinated a bit. So ended up not completing Day 5 of #JavaScript30 and don't know if I even ended up dedicating 1h to coding as I fell asleep while watching JS videos :( Oh well... Accept failure and move on!
+
+### Day 76: July 15, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Done with Day 5 of #JavaScript30 - Flexbox and JS image Gallery! Just added some over effects. https://codepen.io/Tubbie/full/WKrpPR. Started watching the Day 6 video - Ajax Type Ahead with fetch().
+
+**Thoughts:** This one was pretty cool. I managed to do a few things myself before watching the whole video and some of it was correct hahah
