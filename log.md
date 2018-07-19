@@ -560,6 +560,6 @@ Now, I'm just gonna type out the things I have made sense of while meditating, r
 
    - Go outside and be mindful of nature, shapes, colors, sounds... Apreciate them. 
     
-   - Cry it out. Cry hard. It's ok to not be ok.
+   - Cry it out. Cry hard when I need to. It's ok to not be ok. It'll seriously make me feel better.
 
    - Meditate and let go.
