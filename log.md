@@ -530,3 +530,36 @@ AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge
 **Today's Progress:** Continuing my journey to learn about the JS promises... But it's not working well for me.
 
 **Thoughts:** Today has been a day field with self-doubt, anxiety, frustration and not a lot of progress in learning... I'm just gonna stop and come back tomorrow.
+
+### Day 79: July 18, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Coding wise, continued where I had left on and I think I understand the basics of Async JS now. A lot of meditating was done today, some clarity surfaced at last...
+
+**Thoughts:** Will see if I can complete (and understand) day 6 of #JavaScript30 tomorrow!
+Now, I'm just gonna type out the things I have made sense of while meditating, reading and youtubing. Yep I did this whole investigation to figure my mind out and see if I could calm down my self-deprecating thoughts and anxiety regarding many things in life, things that often get in the way of my "happy coding" state as well.
+
+ #### I need to remind myself to:     
+   - Be my own best friend, I'm the most important person in my life, the only one that has always been and will be here for the rest of my life (I had never thought about this), so learn to make myself feel good, raise myself up when I say bad things to myself, be a good friend. 
+
+   - Ask why am I stressing so much over accomplishing something, to be happy in the future, when I can be happy right now, enjoying this very moment? 
+    
+   - Be grateful for everything that's good in my life currently.
+
+   - Focus on the facts, what is real right now? Can I do this? Yes, I can. Will I succeed? I don't know but I can try. 
+
+   - Ask myself, what's so bad about these situations that I worry will happen if I do or say something?
+   
+   - Understand that other people's judgements say more about themselves than about me. It's none of my business what they might think of me (or about anything really).
+
+   - Know that I can't control others. I can only control my life, my decisions, my actions.
+
+   - Realise that I am this body & this mind at this very moment. I am NOT other people's ideas of me. I am not beautiful, ugly, nice, bad, anxious or calm. Some times I might be these things, but at other moments I'm not. These are abstract concepts and should not define me as a person. I am this nose, these legs, these hands, these eyes and they are just the way they need to be right now.
+
+   - Get movings,exercise: do pilates and take care of my physical body, so that I can be healthier, stronger and heal. Not for other people, but for myself.
+
+   - Go outside and be mindful of nature, shapes, colors, sounds... Apreciate them. 
+    
+   - Cry it out. Cry hard. It's ok to not be ok.
+
+   - Meditate and let go.
