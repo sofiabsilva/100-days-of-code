@@ -532,9 +532,9 @@ AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge
 **Thoughts:** Today has been a day field with self-doubt, anxiety, frustration and not a lot of progress in learning... I'm just gonna stop and come back tomorrow.
 
 ### Day 79: July 18, 2018
-#### :mortar_board: Learning & Building
+#### :mortar_board: Learning 
 
-**Today's Progress:** Coding wise, continued where I had left on and I think I understand the basics of Async JS now. A lot of meditating was done today, some clarity surfaced at last...
+**Today's Progress:** Coding wise, continued where I had left on and I think I understand the basics of Async JS now. A lot of meditating was done today, found some ways to deal with things at last...
 
 **Thoughts:** Will see if I can complete (and understand) day 6 of #JavaScript30 tomorrow!
 Now, I'm just gonna type out the things I have made sense of while meditating, reading and youtubing. Yep I did this whole investigation to figure my mind out and see if I could calm down my self-deprecating thoughts and anxiety regarding many things in life, things that often get in the way of my "happy coding" state as well.
@@ -563,3 +563,16 @@ Now, I'm just gonna type out the things I have made sense of while meditating, r
    - Cry it out. Cry hard when I need to. It's ok to not be ok. It'll seriously make me feel better.
 
    - Meditate and let go.
+   
+### Day 80: July 19, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Completed the Udacity Async JavaScript course and continued looking at Day 6 of #JavaScript30
+
+**Thoughts:** Didn't have much time with the computer so I didn't do what I had planed.
+
+### Day 81: July 20, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Finally finished and understood [Day 6 of #JavaScript30](https://codepen.io/Tubbie/full/ejgdNQ). Learned a bit more about Regular expressions too. Continued the Udacity ES6 course (that problem I had accessing it before is now solved). And started Day 7.
+Not coding related: I am done with the portrait commission I was doing for the past month hahah!
