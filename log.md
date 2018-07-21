@@ -580,4 +580,4 @@ Not coding related: I am done with the portrait commission I was doing for the p
 ### Day 82: July 21, 2018
 #### :mortar_board: Learning & Building
 
-**Today's Progress:** Finished Day 7 of #JavaScript30, this was was a piece of vegan cake! :P learned about some(), every(), find() and findIndex(). Started working on a new small project for an awesome slack group I'm part of! 
+**Today's Progress:** Finished Day 7 of #JavaScript30, this was was a piece of vegan cake! :P learned about some(), every(), find() and findIndex(). Started working on a new small project for an awesome slack group I'm part of! https://github.com/sofiabsilva/slack-users-form
