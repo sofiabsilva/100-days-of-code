@@ -576,3 +576,8 @@ Now, I'm just gonna type out the things I have made sense of while meditating, r
 
 **Today's Progress:** Finally finished and understood [Day 6 of #JavaScript30](https://codepen.io/Tubbie/full/ejgdNQ). Learned a bit more about Regular expressions too. Continued the Udacity ES6 course (that problem I had accessing it before is now solved). And started Day 7.
 Not coding related: I am done with the portrait commission I was doing for the past month hahah!
+
+### Day 82: July 21, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Finished Day 7 of #JavaScript30, this was was a piece of vegan cake! :P learned about some(), every(), find() and findIndex(). Started working on a new small project for an awesome slack group I'm part of! 
