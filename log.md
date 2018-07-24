@@ -592,3 +592,8 @@ Not coding related: I am done with the portrait commission I was doing for the p
 
 **Today's Progress & Thoughts:** After a good night of sleep I was able to get to work more effectively, all that research and head banging had it's positives. Today I finished up the slack form project with the help of @ZAYDEK.
 I ended up using jQuery for the AJAX post request, much simpler and ended up not needing to convert the input data to a JSON strings. 
+
+### Day 85: July 24, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Started working on Day 8 of #JavaScript30 and also, since I remembered seeing the HTML5 Canvas course on Udacity I started taking it as well. It's helping me understand the basics of the canvas thing better.
