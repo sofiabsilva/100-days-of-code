@@ -581,3 +581,14 @@ Not coding related: I am done with the portrait commission I was doing for the p
 #### :mortar_board: Learning & Building
 
 **Today's Progress:** Finished Day 7 of #JavaScript30, this was was a piece of vegan cake! :P learned about some(), every(), find() and findIndex(). Started working on a new small project for an awesome slack group I'm part of! https://github.com/sofiabsilva/slack-users-form
+
+### Day 83: July 22, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress & Thoughts:** Not so good. Started writing the JS code for the slack form... One of those days of researching, mostly trying to understand how to collect the data from the form and do a POST request with json. I still don't really know how to work with Asyc JS it seems.
+
+### Day 84: July 23, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress & Thoughts:** After a good night of sleep I was able to get to work more effectively, all that research and head banging had it's positives. Today I finished up the slack form project with the help of @ZAYDEK.
+I ended up using jQuery for the AJAX post request, much simpler and ended up not needing to convert the input data to a JSON strings. 
