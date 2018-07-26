@@ -608,6 +608,7 @@ Here it is: https://codepen.io/Tubbie/full/wxqWwX
 #### :mortar_board: Learning
 
 **Today's Progress:** Done Day 9 of #JavaScript30, learned different ways to use the chrome dev tools and logging things to the JS console. 
+
 **Thoughts:** My favorite thing I learned was the very first, Wesbos shows how to see what's happening, javascript wise, with each DOM element!
 
 Inspect element -> right click on the DOM element -> Break on -> attribute modifications -> click on element on the page -> goes to debugger! -> go back to Elements tab to tick off the break.
