@@ -597,3 +597,17 @@ I ended up using jQuery for the AJAX post request, much simpler and ended up not
 #### :mortar_board: Learning & Building
 
 **Today's Progress:** Started working on Day 8 of #JavaScript30 and also, since I remembered seeing the HTML5 Canvas course on Udacity I started taking it as well. It's helping me understand the basics of the canvas thing better.
+
+### Day 86: July 25, 2018
+#### :mortar_board: Learning & Building
+
+**Today's Progress:** Finished Day 8 of #JavaScript30, on top of learning some cool ways to use the HTML5 canvas, I also used text and figured out how to color it with a gradient. Added a custom rainbow pointer cursor and used a soft-light effect on the "paint".
+Here it is: https://codepen.io/Tubbie/full/wxqWwX
+
+### Day 87: July 26, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Done Day 9 of #JavaScript30, learned different ways to use the chrome dev tools and logging things to the JS console. 
+**Thoughts:** My favorite thing I learned was the very first, Wesbos shows how to see what's happening, javascript wise, with each DOM element!
+
+Inspect element -> right click on the DOM element -> Break on -> attribute modifications -> click on element on the page -> goes to debugger! -> go back to Elements tab to tick off the break.
