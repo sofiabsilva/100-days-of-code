@@ -612,3 +612,21 @@ Here it is: https://codepen.io/Tubbie/full/wxqWwX
 **Thoughts:** My favorite thing I learned was the very first, Wesbos shows how to see what's happening, javascript wise, with each DOM element!
 
 Inspect element -> right click on the DOM element -> Break on -> attribute modifications -> click on element on the page -> goes to debugger! -> go back to Elements tab to tick off the break.
+
+### Day 88: July 27, 2018
+#### :mortar_board: Building
+
+**Today's Progress:** Started Day 10 of #JavaScript30 (checking various checkboxes while pressing shift) this is the first challenge that I'm attempting to do by myself before watching the whole video (just like Wes Bos suggested to do). I feel like I'm pretty close to the solution! 
+
+### Day 89: July 28, 2018
+#### :mortar_board: Building
+
+**Today's Progress:** I DID IT! Completed Day 10 of #JavaScript30 all by myself! Changed the colors on CSS a bit too.
+https://codepen.io/Tubbie/full/rrYjZB
+
+**Thoughts:** Really happy about this and the whole process of brainstoring to solve the challenge. I'm noticing that I'm able to work with the errors I get like they're my friends, not enemies! The console and debugger are my best buddies though (also google).
+
+### Day 90: July 29, 2018
+#### :mortar_board: Building
+
+**Today's Progress:** Started working on Day 11 of #JavaScript30. This one is to make a custom HTML video player interactive with javascript. I'm trying to come up with the solution by myself as well... 
