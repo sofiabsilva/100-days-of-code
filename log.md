@@ -538,6 +538,7 @@ AND started Day 4: 1st Array Cardio, one of the reasons I started this challenge
 
 **Thoughts:** Will see if I can complete (and understand) day 6 of #JavaScript30 tomorrow!
 Now, I'm just gonna type out the things I have made sense of while meditating, reading and youtubing. Yep I did this whole investigation to figure my mind out and see if I could calm down my self-deprecating thoughts and anxiety regarding many things in life, things that often get in the way of my "happy coding" state as well.
+[![photo-1499728603263-13726abce5fd.jpg](https://s15.postimg.cc/54wnmmw6j/photo-1499728603263-13726abce5fd.jpg)](https://postimg.cc/image/gh994f4vb/)
 
  #### I need to remind myself to:     
    - Be my own best friend, I'm the most important person in my life, the only one that has always been and will be here for the rest of my life (I had never thought about this), so learn to make myself feel good, raise myself up when I say bad things to myself, be a good friend. 
