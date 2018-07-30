@@ -636,3 +636,9 @@ There are a few noteworthy things I've learned on this one...
 <code>progress.addEventListener('mousemove', (e) => mousedown && scrub(e));</code>
 
 - My code ended up very different than Wes'. The part that most differs is on the skip buttons, Wes Bos used a custom data attribute, and I think the code is cleaner that way, it was just not intuitive for me. Check [his solution] (https://github.com/sofiabsilva/learning-path/blob/master/JavaScript30/Day11/WesBosSolution.js).
+
+
+### Day 91: July 30, 2018
+#### :mortar_board: Building
+
+**Today's Progress & Thoughts:** Added the bonus feature for the HTML video player of adding a button to make it full screen. Completed [day 12](https://codepen.io/Tubbie/pen/djJjwM) of #JavaScript30, which was a basic yet fun one, to do something on the page (anything, lots of potential right?) when a certain sequence of keys is pressed. This could be fun to use for a game or just to add an easter egg to any website. Started Day 13 as well.
