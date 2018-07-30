@@ -629,4 +629,10 @@ https://codepen.io/Tubbie/full/rrYjZB
 ### Day 90: July 29, 2018
 #### :mortar_board: Building
 
-**Today's Progress:** Started working on Day 11 of #JavaScript30. This one is to make a custom HTML video player interactive with javascript. I'm trying to come up with the solution by myself as well... 
+**Today's Progress:** Started and completed the required tasks on Day 11 of #JavaScript30. With this one we're making a custom HTML video player interactive with javascript, I did it mostly all by myself, only got a bit stuck when math was needed, to update the width % of the porgress bar as the video was playing. https://codepen.io/Tubbie/full/bjaaYO
+
+There are a few noteworthy things I've learned on this one... 
+-  Here, instead of using an if statement, we use && .. If mousedown is false nothing will happen.
+<code>progress.addEventListener('mousemove', (e) => mousedown && scrub(e));</code>
+
+- My code ended up very different than Wes'. The part that most differs is on the skip buttons, Wes Bos used a custom data attribute, and I think the code is cleaner that way, it was just not intuitive for me. Check [his solution] (https://github.com/sofiabsilva/learning-path/blob/master/JavaScript30/Day11/WesBosSolution.js).
