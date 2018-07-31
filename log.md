@@ -643,3 +643,9 @@ There are a few noteworthy things I've learned on this one...
 #### :mortar_board: Building
 
 **Today's Progress & Thoughts:** Added the bonus feature for the HTML video player of adding a button to make it full screen. Completed [day 12](https://codepen.io/Tubbie/pen/djJjwM) of #JavaScript30, which was a basic yet fun one, to do something on the page (anything, lots of potential right?) when a certain sequence of keys is pressed. This could be fun to use for a game or just to add an easter egg to any website. Started Day 13 as well.
+
+### Day 92: July 31, 2018
+#### :mortar_board: Building
+
+**Today's Progress:** Did day 13 of #JavaScript30, learned how to make images slide in on scroll. Pretty cool one! I can see myself using this in the future (note to self: be careful not to overdo it!). I also applied my own styling to the article and found out there's a [lorem ipsum but for pictures - picsum](https://picsum.photos/). 
+https://codepen.io/Tubbie/full/BPYwJX
