@@ -649,3 +649,4 @@ There are a few noteworthy things I've learned on this one...
 
 **Today's Progress:** Did day 13 of #JavaScript30, learned how to make images slide in on scroll. Pretty cool one! I can see myself using this in the future (note to self: be careful not to overdo it!). I also applied my own styling to the article and found out there's a [lorem ipsum but for pictures - picsum](https://picsum.photos/). 
 https://codepen.io/Tubbie/full/BPYwJX
+- Completed my first [Codewars kata](https://github.com/sofiabsilva/learning-path/tree/master/Codewars/kata) today too. 
