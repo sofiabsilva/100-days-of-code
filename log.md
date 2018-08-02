@@ -645,8 +645,20 @@ There are a few noteworthy things I've learned on this one...
 **Today's Progress & Thoughts:** Added the bonus feature for the HTML video player of adding a button to make it full screen. Completed [day 12](https://codepen.io/Tubbie/pen/djJjwM) of #JavaScript30, which was a basic yet fun one, to do something on the page (anything, lots of potential right?) when a certain sequence of keys is pressed. This could be fun to use for a game or just to add an easter egg to any website. Started Day 13 as well.
 
 ### Day 92: July 31, 2018
-#### :mortar_board: Building
+#### :mortar_board: Learning & Building
 
 **Today's Progress:** Did day 13 of #JavaScript30, learned how to make images slide in on scroll. Pretty cool one! I can see myself using this in the future (note to self: be careful not to overdo it!). I also applied my own styling to the article and found out there's a [lorem ipsum but for pictures - picsum](https://picsum.photos/). 
 https://codepen.io/Tubbie/full/BPYwJX
 - Completed my first [Codewars kata](https://github.com/sofiabsilva/learning-path/tree/master/Codewars/kata) today too. 
+
+### Day 93: August 1, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Day 14 of #JavaScript30 done. This one was mostly theory, to understand how references and copies work in arrays and objects.
+
+### Day 94: August 2, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Day 15 of #JavaScript30, learned about LocalStorage and reviewed how event delegation works. I liked this one! 
+
+**Thoughts:** Note to self: try to think of using event delegation more often!
