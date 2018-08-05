@@ -662,3 +662,16 @@ https://codepen.io/Tubbie/full/BPYwJX
 **Today's Progress:** Day 15 of #JavaScript30, learned about LocalStorage and reviewed how event delegation works. I liked this one! 
 
 **Thoughts:** Note to self: try to think of using event delegation more often!
+
+### Day 95: August 3, 2018
+#### :mortar_board: Building
+
+**Today's Progress & Thoughts:** Day 16 of #JavaScript30, learned to make a text shadow follow the mouse movements, this was something I had been wanting to learn for a while. So cool! Had a bit of trouble understanding the math, but by slowing down and breaking it all down I got it! https://codepen.io/Tubbie/full/varXZE
+
+
+### Day 96: August 4, 2018
+#### :mortar_board: Building
+
+**Today's Progress & Thoughts:** Came up with a much longer solution to Day 17 of #JavaScript30 - Sorting band names without articles... Should have used regular expressions. Oh well, at least I did it xD
+Here's the thing with Wes Bos solution commented at the end for comparison.
+https://codepen.io/Tubbie/full/djKEpM
