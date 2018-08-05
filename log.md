@@ -675,3 +675,13 @@ https://codepen.io/Tubbie/full/BPYwJX
 **Today's Progress & Thoughts:** Came up with a much longer solution to Day 17 of #JavaScript30 - Sorting band names without articles... Should have used regular expressions. Oh well, at least I did it xD
 Here's the thing with Wes Bos solution commented at the end for comparison.
 https://codepen.io/Tubbie/full/djKEpM
+
+- Observation: I did 2 weeks in a row of github commits! YAY
+[![Captura_de_ecr_de_2018-08-04_12-54-28.png](https://s15.postimg.cc/dskxksmmj/Captura_de_ecr_de_2018-08-04_12-54-28.png)](https://postimg.cc/image/jtimhv98n/)
+
+### Day 97: August 5, 2018
+#### :mortar_board: Building
+
+**Today's Progress:** Done Day 18 of #JavaScript30 "How JavaScript's Array Reduce Works" and installed ESLint on atom, now I need to learn how to make the most out of it. 
+
+**Thoughts:** Wes Bos explained so well the % (modulus), and I actually loved the method he used to convert seconds to hour: mins: secs. 
