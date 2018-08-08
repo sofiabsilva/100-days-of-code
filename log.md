@@ -696,4 +696,4 @@ https://codepen.io/Tubbie/full/djKEpM
 ### Day 99: August 8, 2018
 #### :mortar_board: Learning
 
-**Today's Progress:** CodeWars once again, I'm really enjoying these things (but I'm only doing the 8kyu for now). I also am installing node.js
+**Today's Progress:** Did some CodeWars once again, I'm really enjoying these, but I'm only doing the 8kyu for now. I also succeded at installing node.js and npm. Now the local host is working! But I can't seem to make the speech recognition work :( 
