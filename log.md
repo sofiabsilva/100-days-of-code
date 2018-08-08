@@ -685,3 +685,15 @@ https://codepen.io/Tubbie/full/djKEpM
 **Today's Progress:** Done Day 18 of #JavaScript30 "How JavaScript's Array Reduce Works" and installed ESLint on atom, now I need to learn how to make the most out of it. 
 
 **Thoughts:** Wes Bos explained so well the % (modulus), and I actually loved the method he used to convert seconds to hour: mins: secs. 
+
+### Day 98: August 7, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Watched Day 19 of #JavaScript30 but didn't actually do it (I'm skipping this one - WebCam Fun) because of a youtube comment lol (this is probably not something I would need to use anytime soon so, I decided to just understand the basics and know this thing exists) But started working on Day 20 - Speech recognition. Couldn't make the local host work. So instead did some codewars hahah 
+
+**Thoughts:** Yesterday was mu brithday so I skipped a day of coding! 
+
+### Day 99: August 8, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** CodeWars once again, I'm really enjoying these things (but I'm only doing the 8kyu for now). I also am installing node.js
