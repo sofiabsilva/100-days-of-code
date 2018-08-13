@@ -697,3 +697,10 @@ https://codepen.io/Tubbie/full/djKEpM
 #### :mortar_board: Learning
 
 **Today's Progress:** Did some CodeWars once again, I'm really enjoying these, but I'm only doing the 8kyu for now. I also succeded at installing node.js and npm. Now the local host is working! But I can't seem to make the speech recognition work :( 
+
+
+### DAY 100: August 9, 2018
+#### :mortar_board: Learning
+
+**Today's Progress** I DID IT! Today was one of those days I didn't feel like coding but pushed through some FCC and Codewars challenges! 
+ **Thoughts:** So glad I got involved with this community and challenge. It really helped me to stay motivated and build the habit to code every day. That's exactly what I wanted out of it. It was very challenging at times but I learned so much thought these last 100 days! I always feel like I could have done more but I decided that I'll be happy regardless of what I've achieved each day and stop comparing my progress to other people's. 
